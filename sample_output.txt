@@ -1,0 +1,8 @@
+['and', ['or', 'A', 'B'], ['or', ['not', 'B'], 'C', ['not', 'D']], ['or', 'D', ['not', 'E']]]
+['and', ['or', 'A', 'C'], ['or', 'B', 'C'], ['or', 'A', 'D'], ['or', 'B', 'D']]
+['and', ['not', 'A'], ['or', 'B', ['not', 'C']]]
+['or', ['not', 'A'], ['not', 'B']]
+['and', ['or', 'P', 'Q', ['not', 'P']], ['or', ['not', 'Q'], 'Q', ['not', 'P']], ['or', 'P', ['not', 'P']], ['or', ['not', 'Q'], ['not', 'P']]]
+['and', ['or', ['not', 'P'], 'P'], ['or', ['not', 'Q'], 'P'], ['or', ['not', 'P'], 'Q'], ['or', ['not', 'Q'], 'Q']]
+['and', ['or', ['not', 'P'], 'Q'], ['or', ['not', 'Q'], 'P']]
+['and', ['or', 'A', 'B'], ['or', ['not', 'B'], 'C', ['not', 'D']], ['or', 'D', ['not', 'E']]]
